@@ -8,6 +8,9 @@
 ##### Languages found on this profile
 - Java/Kotlin/Javascript/C#/WASM
 
+
+##### Some nice looking stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebcuthbertlinden&layout=compact&theme=react)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebcuthbertlinden&count_private=true&show_icons=true&theme=react)
