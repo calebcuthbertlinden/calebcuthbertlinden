@@ -6,7 +6,7 @@
 - Honours in Information Science (Multimedia)
 
 ##### Languages found on this profile
-- Java/Kotlin/Javascript/C#/WASM
+- Java/Kotlin/Javascript/Dart/C#/WASM
 
 
 ##### Some nice looking stats
