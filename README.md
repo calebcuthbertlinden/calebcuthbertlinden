@@ -2,11 +2,11 @@
 #### A collection of personal projects - Android, Flutter, AR, VR, Web and some other things⚡
 
 ##### About me
-- Senior Software Engineer at Entelect
+- Full stack developer at Polymorph
 - Honours in Information Science (Multimedia)
 
 ##### Languages found on this profile
-- Java/Kotlin/Javascript/Dart/C#/WASM
+- Kotlin/Java/Javascript/Typescript/Dart/C#/WASM
 
 
 ##### Some nice looking stats
