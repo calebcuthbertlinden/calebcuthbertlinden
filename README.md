@@ -12,6 +12,7 @@
 ##### Some nice looking stats
 
 ![Top Langs](https://github-stats-alpha-rose.vercel.app/api/top-langs/?username=calebcuthbertlinden&layout=compact&theme=react)
+![General stats](https://github-stats-alpha-rose.vercel.app/api?username=calebcuthbertlinden&layout=compact&theme=react)
 
 <!--
 **calebcuthbertlinden/calebcuthbertlinden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
